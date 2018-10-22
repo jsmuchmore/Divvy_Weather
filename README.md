@@ -2,7 +2,7 @@
 A look at the relationship between Divvy bike use and the weather in Chicago 2017.
 
 
-This is a quick look at how divvy ridership changes with the weather. This project uses a jupyter notebook running python and using pandas, matplotlib and numpy. The weather data was collected from the OpenWeatherMap API using a query for Chicago in 2017. The Divvy Bike rider data was collected from the divvybikes.com website.
+This is a quick look at how Divvy ridership changes with the weather. This project uses a jupyter notebook running python and using pandas, matplotlib and numpy. The weather data was collected from the OpenWeatherMap API using a query for Chicago in 2017. The Divvy Bike rider data was collected from the divvybikes.com website.
 
 
 Data Sources:
