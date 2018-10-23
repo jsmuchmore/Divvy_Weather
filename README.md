@@ -20,7 +20,7 @@ Data Sources:
   <img src="output_13_1.png">
 </p>
 
-###### Number of rides vs Cloud Coverage: The cloudier it gets, the less people ride Divvy Bikes. 
+###### Number of rides vs Cloud Coverage: Divvy ridership does not appear to be affected much by cloudiness until it gets very cloudy, around 80%.  
 ***
 <p align="center">
   <img src="output_14_1.png">
